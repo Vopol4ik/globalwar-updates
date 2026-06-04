@@ -1,6 +1,6 @@
 {
-  "revision": 2,
-  "builtAt": "2026-06-04T14:46:12.704Z",
+  "revision": 4,
+  "builtAt": "2026-06-04T14:55:59.434Z",
   "baseUrl": null,
   "files": [
     {
@@ -74,12 +74,6 @@
       "sha256": "591c07d649dde7669b1e8d9a53e89a8bc3aa0b9b7e4d768c2209017b02193356",
       "size": 29467253,
       "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__DistantHorizons-3.0.3-b-1.20.1-fabric-forge.jar"
-    },
-    {
-      "path": "mods/dragonrise_reforge-1.3.0.jar",
-      "sha256": "9276d45ba5c9ec1343953d0cee25290976bb28d51a79f974c4c3d0860e7a2bee",
-      "size": 64397345,
-      "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__dragonrise_reforge-1.3.0.jar"
     },
     {
       "path": "mods/dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
@@ -262,12 +256,6 @@
       "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__MaFgLib-0.1.13-mc1.20.1.jar"
     },
     {
-      "path": "mods/MCSP-1.20.1-V1.0.8(1).jar",
-      "sha256": "96435115455608895956682daee15d766d0258f264d482df45ebc8df6beabcc4",
-      "size": 4752320,
-      "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__MCSP-1.20.1-V1.0.8(1).jar"
-    },
-    {
       "path": "mods/memoryleakfix-forge-1.17+-1.1.5.jar",
       "sha256": "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd",
       "size": 227925,
@@ -353,8 +341,8 @@
     },
     {
       "path": "mods/pgcclient-2.0.0.jar",
-      "sha256": "316ff7f96127fbb3196ac2f6bbf1fef39c4bfb3b5fc3ef6a596eb9d9bb59c8a6",
-      "size": 2434524,
+      "sha256": "25c66c808243194644353ff429a4949eb97631a85184370aea8bdd6c87272b4f",
+      "size": 2430356,
       "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__pgcclient-2.0.0.jar"
     },
     {
@@ -514,12 +502,6 @@
       "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__voicechat-forge-1.20.1-2.6.18.jar"
     },
     {
-      "path": "mods/vvp-beta-1.20.1-0.2.0.jar",
-      "sha256": "a6ae198be71e970a5b28c3ed4336d4cf787ead65f39c9c8545a6951c90b799e6",
-      "size": 26055359,
-      "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__vvp-beta-1.20.1-0.2.0.jar"
-    },
-    {
       "path": "mods/worldedit-mod-7.2.15(1).jar",
       "sha256": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
       "size": 5825402,
@@ -554,12 +536,6 @@
       "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
       "size": 1105891,
       "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
-    },
-    {
-      "path": "mods/ywzj_vehicle-1.20.1-0.5.4.2-all.jar",
-      "sha256": "90c670e875eaf4455a8e27922ea51af3ead7ed01a748b789155c9eb28f5d095a",
-      "size": 9297165,
-      "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__ywzj_vehicle-1.20.1-0.5.4.2-all.jar"
     },
     {
       "path": "mods/Zero ordinary vehicles-V2.2_1.20.1-26.1.jar",
@@ -599,6 +575,10 @@
     }
   ],
   "remove": [
-    "mods/superbwarfare-0.8.9-final-mc1.20.1-6effe4385-all.jar"
+    "mods/MCSP-1.20.1-V1.0.8(1).jar",
+    "mods/dragonrise_reforge-1.3.0.jar",
+    "mods/superbwarfare-0.8.9-final-mc1.20.1-6effe4385-all.jar",
+    "mods/vvp-beta-1.20.1-0.2.0.jar",
+    "mods/ywzj_vehicle-1.20.1-0.5.4.2-all.jar"
   ]
 }
