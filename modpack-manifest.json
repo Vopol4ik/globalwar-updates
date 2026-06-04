@@ -1,6 +1,6 @@
 {
-  "revision": 11,
-  "builtAt": "2026-06-04T15:26:07.023Z",
+  "revision": 12,
+  "builtAt": "2026-06-04T15:32:49.904Z",
   "baseUrl": null,
   "files": [
     {
@@ -26,6 +26,12 @@
       "sha256": "e6e1dce1eb0bf3b3e6ad237e9e7de50536e0719065ed911ec92198e6f4a739fd",
       "size": 311361,
       "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__bfcrr-1.0.jar"
+    },
+    {
+      "path": "mods/C.M.A_Transport_Pack _v.3.3-1.20.1.jar",
+      "sha256": "c2b9abdb747d6bbaf2567e86e2501dcfa3dae4f62c54335343f19ef2aac499a2",
+      "size": 118528306,
+      "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__C.M.A_Transport_Pack _v.3.3-1.20.1.jar"
     },
     {
       "path": "mods/CameraOverhaul-v2.1.1-forge+mc[1.20-1.20.5].jar",
