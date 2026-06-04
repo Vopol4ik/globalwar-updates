@@ -1,6 +1,6 @@
 {
-  "revision": 7,
-  "builtAt": "2026-06-04T15:07:13.363Z",
+  "revision": 8,
+  "builtAt": "2026-06-04T15:10:38.579Z",
   "baseUrl": null,
   "files": [
     {
@@ -341,8 +341,8 @@
     },
     {
       "path": "mods/pgcclient-2.0.0.jar",
-      "sha256": "3f2ad70f7dafe4f1a61683eccdf120bad09119f5eb3c30d74931612d5bcd7fd4",
-      "size": 2429902,
+      "sha256": "0805a855db8509864910b99b82d2d1480e105384ff8b4e8f0d0304a9389ee6ef",
+      "size": 2409931,
       "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__pgcclient-2.0.0.jar"
     },
     {
