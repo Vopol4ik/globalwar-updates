@@ -1,6 +1,6 @@
 {
   "revision": 17,
-  "builtAt": "2026-06-04T16:19:28.383Z",
+  "builtAt": "2026-06-04T16:29:36.951Z",
   "baseUrl": null,
   "files": [
     {
@@ -340,6 +340,12 @@
       "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__pgcclient-2.0.0.jar"
     },
     {
+      "path": "mods/pgcclient-2.1.0.jar",
+      "sha256": "2031286a2cf2faa6612704671740e44e0c27a2cbe812a82aff6ee3765d252c90",
+      "size": 2410417,
+      "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__pgcclient-2.1.0.jar"
+    },
+    {
       "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
       "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
       "size": 181437,
@@ -568,6 +574,7 @@
     "mods/Wrecked-1.1.2.jar",
     "mods/bfcrr-1.0.jar",
     "mods/dragonrise_reforge-1.3.0.jar",
+    "mods/pgcclient-2.0.0.jar",
     "mods/superbwarfare-1.20.1-0.8.8-final-6a6b54795.jar",
     "mods/vvp-beta-1.20.1-0.2.0.jar",
     "mods/ywzj_vehicle-1.20.1-0.5.4.2-all.jar"
