@@ -1,6 +1,6 @@
 {
-  "revision": 14,
-  "builtAt": "2026-06-04T15:50:57.572Z",
+  "revision": 15,
+  "builtAt": "2026-06-04T15:55:51.823Z",
   "baseUrl": null,
   "files": [
     {
@@ -283,7 +283,7 @@
       "path": "mods/MRU-1.0.4+1.20.1+forge(1).jar",
       "sha256": "520c07bceb8987c4bb355d32b495ae03e4f106553df47b1a9691a08420016fa2",
       "size": 287393,
-      "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__MRU-1.0.4+1.20.1+forge(1).jar"
+      "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__MRU-1.0.4+1.20.1+forge.1.jar"
     },
     {
       "path": "mods/MTS Official Pack-1.20.1-V29.jar",
@@ -499,7 +499,7 @@
       "path": "mods/worldedit-mod-7.2.15(1).jar",
       "sha256": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
       "size": 5825402,
-      "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__worldedit-mod-7.2.15(1).jar"
+      "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__worldedit-mod-7.2.15.1.jar"
     },
     {
       "path": "mods/WRB-Armor-0.4.1.jar",
