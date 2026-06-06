@@ -1,6 +1,6 @@
 {
-  "revision": 17,
-  "builtAt": "2026-06-04T16:29:36.951Z",
+  "revision": 18,
+  "builtAt": "2026-06-07T12:00:00.000Z",
   "baseUrl": null,
   "files": [
     {
@@ -334,16 +334,10 @@
       "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__PeakStamina-Forge-1.9.19-1.20.1.jar"
     },
     {
-      "path": "mods/pgcclient-2.0.0.jar",
-      "sha256": "2031286a2cf2faa6612704671740e44e0c27a2cbe812a82aff6ee3765d252c90",
-      "size": 2410417,
-      "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__pgcclient-2.0.0.jar"
-    },
-    {
       "path": "mods/pgcclient-2.1.0.jar",
       "sha256": "2031286a2cf2faa6612704671740e44e0c27a2cbe812a82aff6ee3765d252c90",
       "size": 2410417,
-      "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__pgcclient-2.1.0.jar"
+      "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__pgcclient-2.0.0.jar"
     },
     {
       "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
