@@ -1,6 +1,6 @@
 {
-  "revision": 18,
-  "builtAt": "2026-06-07T12:00:00.000Z",
+  "revision": 19,
+  "builtAt": "2026-06-07T18:00:00.000Z",
   "baseUrl": null,
   "files": [
     {
@@ -14,12 +14,6 @@
       "sha256": "3da53cdf856757d9ec7df0be86bc23b2c7d67a019b490f8f64317d4d9b77cac8",
       "size": 460234,
       "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__BadOptimizations-2.4.1-1.20.1.jar"
-    },
-    {
-      "path": "mods/BeyondHorizons IV-1.0.1.jar",
-      "sha256": "54754a8784e759382eb2f89a774efe8b52c42c6c2477c5e3c225af8bb9417390",
-      "size": 94725,
-      "url": "https://github.com/Vopol4ik/globalwar-updates/releases/download/modpack-latest/mods__BeyondHorizons.IV-1.0.1.jar"
     },
     {
       "path": "mods/C.M.A_Transport_Pack _v.3.3-1.20.1.jar",
